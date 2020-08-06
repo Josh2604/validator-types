@@ -1,0 +1,26 @@
+{
+  "name": "validator-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh2604/validator-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh2604/validator-types/issues"
+  },
+  "homepage": "https://github.com/Josh2604/validator-types#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
