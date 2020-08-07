@@ -1,7 +1,7 @@
 {
-  "name": "validator-types",
+  "name": "@josh2604/validator-types",
   "version": "1.0.0",
-  "description": "",
+  "description": "Validator types package",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/Josh2604/validator-types.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "@Josh2604",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Josh2604/validator-types/issues"
