@@ -2,6 +2,6 @@
 =            Boolean Types Handlers           =
 =============================================*/
 
-exports.isBool = (value) => {
+exports.isBoolean = (value) => {
   return typeof value === 'boolean';
 }
