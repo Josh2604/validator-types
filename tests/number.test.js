@@ -1,5 +1,5 @@
 const {isNumber} = require('./../index');
 
-test('Testeo de number', () => {
+test('Test number : 20', () => {
   expect(isNumber(20)).toBe(true);
 });
