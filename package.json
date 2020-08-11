@@ -1,5 +1,5 @@
 {
-  "name": "@josh2604/validator-types",
+  "name": "validator-types",
   "version": "1.0.0",
   "description": "Validator types package",
   "main": "index.js",
