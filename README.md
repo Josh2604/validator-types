@@ -1,18 +1,38 @@
 # Validator types for Javascript
 
-### isArray
+### All validation types
 ```js
-import {isArray} from './path/to/validator-types';
+import {isArray, isBoolean, isDate, isFunction, isNumber, isObject, isRegex, isString} from './path/to/validator-types';
 
 if(isArray(value)){
   ...
 }
-```
-### isBoolean
-```js
-import {isBoolean} from './path/to/validator-types';
 
 if(isBoolean(value)){
+  ...
+}
+
+if(isDate(value)){
+  ...
+}
+
+if(isFunction(value)){
+  ...
+}
+
+if(isNumber(value)){
+  ...
+}
+
+if(isObject(value)){
+  ...
+}
+
+if(isRegex(value)){
+  ...
+}
+
+if(isString(value)){
   ...
 }
 ```
